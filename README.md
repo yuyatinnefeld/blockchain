@@ -1,22 +1,33 @@
 # Blockchain Getting Started
 
+## Setup
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
 ## Lesson 1 - Basics
 learn basic cryptography methods
-- python_basics/decode_encode.py
-- python_basics/learn_hashlib.py
-- python_basics/private_public_key.py
-- python_basics/decode_encode_2.py
-
-## Lesson2 - create block chain
-learn blockchain basics
-- python_blockchain/step1_create_chain
-- python_blockchain/step2_hashed
-- python_blockchain/step3_nonce
-- python_blockchain/step4_mining
-
 ```bash
-python python_blockchain/step1_create_chain/blockchain.py
-python python_blockchain/step2_hased/blockchain.py
-...
+cd python/basics
+python decode_encode.py
+python learn_hashlib.py
+python private_public_key.py
+python decode_encode_2.py
 ```
+
+## Lesson2 - create blockchain
+learn blockchain basics
+```bash
+cd python/blockchain
+python step1_create_chain
+python step2_hashed
+python step3_nonce
+python step4_mining
+```
+
 ## Lesson3 - create wallet
+```bash
+cd python/wallet
+
+```
