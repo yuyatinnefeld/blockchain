@@ -6,8 +6,8 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Lesson 1 - Basics
-learn basic cryptography methods
+## Lesson 1 - basics
+learn cryptography basics
 ```bash
 cd python/basics
 python decode_encode.py
@@ -27,6 +27,7 @@ python step4_mining
 ```
 
 ## Lesson3 - create wallet
+learn the wallet mechanism 
 ```bash
 cd python/wallet
 
