@@ -93,12 +93,12 @@ if __name__ == '__main__':
     block_chain = BlockChain(blockchain_address=my_blockchain_address)
     utils.pprint(block_chain.chain)
 
-    block_chain.add_transaction('A','YU', 1.0)
+    block_chain.add_transaction('HO','YU', 1.0)
     block_chain.mining()
     utils.pprint(block_chain.chain)
 
-    block_chain.add_transaction('YU','JI', 2.0)
-    block_chain.add_transaction('X','Y', 3.0)
+    block_chain.add_transaction('YU','JI', 1.0)
+    block_chain.add_transaction('HO','YU', 10.0)
     block_chain.mining()
     utils.pprint(block_chain.chain)
 
