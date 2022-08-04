@@ -1,0 +1,7 @@
+{
+    "sender_blockchain_address": "bSLh4YnohqFYBT42WQX5A9egnVxqrJ5hcMzNr4uwcEa9ZpJvfPTMVwRLrzEKqznqnAVv",
+    "recipient_blockchain_address": "bSNVHD81iB9Z5j63TVy17U4SRGcMpd5qVqYmTkVVHKyhD3uD4cxqxqjqgQu9mXHxcSUf",
+    "value": 2.0,
+    "sender_public_key": "4816f4d92356cd9bd30dea9481c0c3d6af7f5852a5c4a71425812956323993e29b949edeb3565b2990e07f44c0101b46469549c906f318bd5d4be1b75735e888",
+    "signature": "201fd8684698799cb469faf1bffd725f8c46c7ead9380cb269f2d1ff854e88b71d4b2213c953b7b03472f38b3d7e7b6553d1ca2e3476a5c76dabde4803324e19"
+}
